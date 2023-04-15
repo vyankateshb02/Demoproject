@@ -13,6 +13,9 @@ public class Test {
 		WebDriver driver=new ChromeDriver();
 		
 		driver.get("https://www.amazon.in/");
+	 
+	 
+  system.out.println(" amazon open");
 }
 	 
 	 
